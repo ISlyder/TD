@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TD2</string>
+    <string name="entreeStr">Entrée</string>
+    <string name="platStr">Plat principal</string>
+    <string name="validBtn">Valider</string>
+    <string name="tempDegC">Température (en °C)</string>
+    <string name="vitesseKmH">Vitesse du vent (en km/h)</string>
+
+    <string-array name="ciel">
+        <item>Dégagé</item>
+        <item>Couvert</item>
+        <item>Pluvieux</item>
+    </string-array>
+</resources>
