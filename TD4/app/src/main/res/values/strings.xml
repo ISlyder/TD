@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsList</string>
+    <string name="userName">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="details">Détails</string>
+    <string name="deco">Se déconnecter</string>
+    <string name="ok">OK</string>
+    <string name="about">About</string>
+</resources>
