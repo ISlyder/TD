@@ -7,7 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 class ContactActivity : AppCompatActivity() {
 
-    lateinit var contacts : ArrayList<Contact>
+    var contacts : ArrayList<Contact> = ArrayList()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

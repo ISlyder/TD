@@ -19,7 +19,6 @@ class ContactAdapter(private val contacts : List<Contact>) : RecyclerView.Adapte
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val context : Context = parent.context
         val inflater : LayoutInflater = LayoutInflater.from(context)
-
         val contactView : View = inflater.inflate(R.layout.item_contact, parent, false)
 
         return ViewHolder(contactView)
