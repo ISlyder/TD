@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    <string name="nomRep">Nom du repertoire :</string>
+    <string name="valider">Valider</string>
 </resources>
